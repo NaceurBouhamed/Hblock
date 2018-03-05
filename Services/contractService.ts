@@ -1,7 +1,7 @@
 import Web3 = require('web3');
 
 
-export class SmartRepo {
+export class ContractService {
 
     web3: any;
 
