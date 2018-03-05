@@ -6,7 +6,8 @@ export class Patient {
     lastName: string;
     birthdate: string;
     id: number;
-    address:string;
-    records:Record[];
+    password: number;
+    address: string;
+    records: Record[];
 
 }

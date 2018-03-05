@@ -1,5 +1,5 @@
 export class Record {
-    date:string;
-    HealthcareName:string;
-    description:string;
+    date: string;
+    HealthcareName: string;
+    description: string;
 }
