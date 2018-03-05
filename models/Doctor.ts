@@ -6,6 +6,4 @@ export class Doctor {
     password: string;
     visits: any;
 
-
-
 }
